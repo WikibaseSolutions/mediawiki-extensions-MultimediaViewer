@@ -68,7 +68,7 @@
 
 		if ( !this.cache[ cacheKey ] ) {
 			if ( this.imagePreloadingSupported() ) {
-				rawGet = provider.rawGet.bind( provider, url, true );
+				rawGet = provider.rawGet.bind( provider, url, false );
 				this.cache[ cacheKey ] = this.performance.record( 'image', url, extraStatsDeferred ).then( rawGet, rawGet );
 			} else {
 				start = ( new Date() ).getTime();
