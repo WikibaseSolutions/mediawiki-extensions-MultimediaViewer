@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Mark Holmquist <mtraceur@member.fsf.org>"
+			"Mark Holmquist <mtraceur@member.fsf.org>",
+			"Rob Commeren"
 		]
 	},
 	"multimediaviewer-desc": "Expand thumbnails in a larger size in a fullscreen interface. Adapted for CORS by WS.",

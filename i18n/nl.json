@@ -15,10 +15,11 @@
 			"Sjoerddebruin",
 			"Southparkfan",
 			"Encycloon",
-			"Nickthijssen1994"
+			"Nickthijssen1994",
+			"Rob Commeren (WS)"
 		]
 	},
-	"multimediaviewer-desc": "Miniatuurafbeeldingen schermvullend weergeven.",
+	"multimediaviewer-desc": "Miniatuurafbeeldingen schermvullend weergeven. Met CORS aanpassing door WS.",
 	"multimediaviewer-optin-pref": "<span class=\"plainlinks\">[https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:Media_Viewer/About MediaViewer]</span> inschakelen",
 	"multimediaviewer-file-page": "Naar de bestandspagina gaan",
 	"multimediaviewer-repository-local": "Meer informatie",
